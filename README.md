@@ -30,7 +30,7 @@ The COVID-19 Analytics Dashboard is an interactive data visualization project bu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/covid19-analytics-dashboard.git
+git clone https://github.com/ajeetsinghu9-ui/streamlit-covid-dashboard.git
 ```
 
 2. Install dependencies:
@@ -44,6 +44,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+##📸 Dashboard Preview
+
+![Dashboard](Screenshot_dashboard.png)
 
 ## 👨‍💻 Author
 
